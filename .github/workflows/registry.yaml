@@ -62,9 +62,9 @@ jobs:
           build
           --
           --image-name
-          'ghcr.io/radio-aktywne/devcontainers/app-liquidsoap:latest'
+          'ghcr.io/radio-aktywne/devcontainers/service-liquidsoap:latest'
           --image-name
-          'ghcr.io/radio-aktywne/devcontainers/app-liquidsoap:${{ github.event.release.tag_name }}'
+          'ghcr.io/radio-aktywne/devcontainers/service-liquidsoap:${{ github.event.release.tag_name }}'
           --cache-from
           'type=gha,scope=${{ github.workflow }}'
           --cache-to
