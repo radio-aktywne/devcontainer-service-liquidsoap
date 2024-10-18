@@ -3,11 +3,11 @@ import type { Config } from "@docusaurus/types";
 import { themes } from "prism-react-renderer";
 
 const url = new URL(
-  "https://radio-aktywne.github.io/devcontainer-app-liquidsoap",
+  "https://radio-aktywne.github.io/devcontainer-service-liquidsoap",
 );
 
 const config: Config = {
-  title: "app-liquidsoap devcontainer docs",
+  title: "service-liquidsoap devcontainer docs",
   favicon: "favicon.svg?v=1",
 
   url: `${url.protocol}//${url.host}`,
@@ -43,14 +43,14 @@ const config: Config = {
 
   themeConfig: {
     navbar: {
-      title: "app-liquidsoap devcontainer docs",
+      title: "service-liquidsoap devcontainer docs",
       logo: {
-        alt: "app-liquidsoap devcontainer docs logo",
+        alt: "service-liquidsoap devcontainer docs logo",
         src: "logo.svg?v=1",
       },
       items: [
         {
-          href: "https://github.com/radio-aktywne/devcontainer-app-liquidsoap",
+          href: "https://github.com/radio-aktywne/devcontainer-service-liquidsoap",
           position: "right",
           className: "header-github-link",
           "aria-label": "GitHub repository",
