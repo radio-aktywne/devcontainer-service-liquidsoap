@@ -1,11 +1,10 @@
 # Changes here will be overwritten by Copier; NEVER EDIT MANUALLY
-_commit: 0.10.0
+_commit: 0.11.0
 _src_path: gh:radio-aktywne/template-devcontainer
 accountname: radio-aktywne
 description: Devcontainer for Liquidsoap services 🧴
 devcontainername: service-liquidsoap
-docs: true
-docsurl: https://radio-aktywne.github.io/devcontainer-service-liquidsoap
+docs: false
 imagename: devcontainers/service-liquidsoap
 registry: true
 releases: true
