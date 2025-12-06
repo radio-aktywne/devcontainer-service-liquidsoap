@@ -7,7 +7,6 @@ Devcontainer for Liquidsoap services 🧴
 [![Lint](https://github.com/radio-aktywne/devcontainer-service-liquidsoap/actions/workflows/lint.yaml/badge.svg)](https://github.com/radio-aktywne/devcontainer-service-liquidsoap/actions/workflows/lint.yaml)
 [![Image](https://github.com/radio-aktywne/devcontainer-service-liquidsoap/actions/workflows/image.yaml/badge.svg)](https://github.com/radio-aktywne/devcontainer-service-liquidsoap/actions/workflows/image.yaml)
 [![Registry](https://github.com/radio-aktywne/devcontainer-service-liquidsoap/actions/workflows/registry.yaml/badge.svg)](https://github.com/radio-aktywne/devcontainer-service-liquidsoap/actions/workflows/registry.yaml)
-[![Docs](https://github.com/radio-aktywne/devcontainer-service-liquidsoap/actions/workflows/docs.yaml/badge.svg)](https://github.com/radio-aktywne/devcontainer-service-liquidsoap/actions/workflows/docs.yaml)
 
 </div>
 
@@ -15,14 +14,8 @@ Devcontainer for Liquidsoap services 🧴
 
 ## 💡 About
 
-This repository contains a [`Dev Container`](https://containers.dev)
-tailored for developing [`Liquidsoap`](https://www.liquidsoap.info) services in
-[`radio-aktywne`](https://github.com/radio-aktywne).
-
-## 📄 Further Reading
-
-More in-depth documentation can be found
-[here](https://radio-aktywne.github.io/devcontainer-service-liquidsoap).
+`service-liquidsoap` is a [`Dev Container`](https://containers.dev)
+for developing [`Liquidsoap`](https://www.liquidsoap.info) services.
 
 ## 💻 Development
 
